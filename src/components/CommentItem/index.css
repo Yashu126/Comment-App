@@ -1,0 +1,97 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  margin-left: 0px;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.comment-detils {
+  margin: 0px;
+  display: flex;
+}
+
+.letter {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 25px;
+  color: #dee0e3;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+}
+
+.buttons-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.liked {
+  color: #0ea5e9;
+}
+.notLiked {
+  color: #7e858e;
+}
+.comment {
+  margin-left: 40px;
+  color: #334155;
+}
+.name {
+  margin: 0px;
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 22px;
+  margin-right: 8px;
+}
+.date {
+  margin: 0px;
+  color: #64748b;
+}
+
+.like-icon-con {
+  display: flex;
+  align-items: center;
+}
+.name-time {
+  display: flex;
+  align-items: center;
+}
